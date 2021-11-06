@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zichfried
 - 👀 I’m interested in Renpy games and Minecraft modding.
 - 🌱 I’m currently learning Minecraft modding. Ultra basic. Literally just leaving MCreator to learn coding.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Minecraft mods.
 - 📫 How to reach me Discord, Twitter, my YouTube channel among other social media.
 
 <!---
